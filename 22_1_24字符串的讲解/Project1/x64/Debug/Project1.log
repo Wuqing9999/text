@@ -1,4 +1,0 @@
-﻿D:\Professional_software\Visual Studio 2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  字符串.c
-D:\code\C\22_1_19\Project1\Project1\字符串.c(16,23): warning C4013: “strlen”未定义；假设外部返回 int
-  Project1.vcxproj -> D:\code\C\22_1_19\Project1\x64\Debug\字符串.exe
